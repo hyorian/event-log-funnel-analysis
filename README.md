@@ -20,6 +20,8 @@
 ## 주요 분석
 
 ### 1. Question Funnel Analysis
+![Question Funnel](images/question_funnel.png)
+
 - launch_app
 - question_open
 - question_start
@@ -28,6 +30,8 @@
 질문 진입 대비 완료율 감소 구조 분석
 
 ### 2. Skip Time Distribution
+![Skip Distribution](images/skip_distribution.png)
+
 - 질문 시작 직후 빠른 skip 발생 여부 분석
 - 20초 이내 skip 집중 패턴 확인
 
@@ -36,6 +40,8 @@
 - 질문 기능 자체 수요 존재 여부 확인
 
 ### 4. Event Category Distribution
+![Event Category](images/event_category_distribution.png)
+
 - 탐색 / 질문 / 프로필 / 관계 기능 사용 비중 분석
 
 ### 5. UX Flow Analysis
