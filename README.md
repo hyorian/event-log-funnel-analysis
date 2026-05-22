@@ -1,5 +1,4 @@
 # event-log-funnel-analysis
-# event-log-funnel-analysis
 
 ## 프로젝트 개요
 
