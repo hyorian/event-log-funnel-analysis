@@ -89,3 +89,7 @@
 | next_event_after_complete.csv | 완료 이후 행동 분석 |
 | previous_event_before_skip.csv | skip 이전 행동 분석 |
 | event_category_distribution.csv | 기능별 이벤트 비중 분석 |
+
+
+본 프로젝트는 사용자 이벤트 로그 기반 행동 분석을 통해
+질문 UX 흐름과 이탈 구조를 분석한 데이터 분석 프로젝트입니다.
